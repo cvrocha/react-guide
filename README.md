@@ -1,8 +1,13 @@
-**<h1 align="center">&nbsp;<img height="30" width="30" src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966"> Guia ReactJS <img height="30" width="30" src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966">&nbsp;</h1>**
+<p align="center">
+        <img height="150" width="150" src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966">
+  <h1 align="center">Guia Extenso de ReactJS</h1>
+</p>
 
-Este guia abrangente fornecerá todas as instruções necessárias para a instalação e configuração do ReactJS em sistemas Windows, Linux e macOS. Siga os passos abaixo para configurar o ambiente de desenvolvimento em seu sistema operacional preferido:
+## :dart: O guia para te ajudar em novos projetos.
 
-## Sumário
+> Este guia abrangente fornecerá todas as instruções necessárias para a instalação e configuração do ReactJS em sistemas Windows, Linux e MacOS. Siga os passos abaixo para configurar o ambiente de desenvolvimento em seu sistema operacional preferido:
+
+## :open_book: Sumário
 
 - Instalações:
     - [Nodejs](#-nodejs) <br>
@@ -23,11 +28,11 @@ Este guia abrangente fornecerá todas as instruções necessárias para a instal
     - [Podcasts](#-nodejs) <br>
     - [Livros](#-nodejs) <br>
 - Tirar Dúvidas
-    - [Fazer perguntas](https://github.com/jjeanjacques10/guia-programador-junior/issues)
+    - [Fazer perguntas](https://github.com/cvrocha/react-guide/issues)
 
 ---
 
-## - Instalações Essenciais:
+## :hammer_and_wrench: Instalações Essenciais:
 
 ### NodeJS Windows:
 - Acesse o site oficial do **NODEJS** **https://nodejs.org/en/download**
