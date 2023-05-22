@@ -1,6 +1,28 @@
 **<h1 align="center">&nbsp;<img height="50" width="50" src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966">Guia ReactJS<img height="50" width="50" src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966">&nbsp;</h1>**
 
 Este guia abrangente fornecerá todas as instruções necessárias para a instalação e configuração do ReactJS em sistemas Windows, Linux e macOS. Siga os passos abaixo para configurar o ambiente de desenvolvimento em seu sistema operacional preferido:
+#
+
+## Sumário
+
+- Carreira
+    - [LinkedIn](./Carreira/LINKEDIN.md)
+    - [Caminhos](./Carreira/CARREIRA.md)
+- Por onde começar
+    - [Backend](./PorOndeComecar/BACKEND.md)
+    - [Frontend](./PorOndeComecar/FRONTEND.md)
+- Cursos
+    - [Gratuitos](./Cursos/GRATUITOS.md)
+    - [Pagos](./Cursos/PAGOS.md)
+- Recomendações
+    - [Canais do Youtube](./Recomendacoes/YOUTUBE.md)
+    - [Onde ler artigos](./Recomendacoes/ARTIGOS.md)
+    - [Comunidades](./Recomendacoes/COMUNIDADES.md)
+    - [Podcasts](./Recomendacoes/PODCASTS.md)
+    - [Livros](./Recomendacoes/LIVROS.md)
+- Como usar o GitHub [Em breve...]
+- Tirar Dúvidas
+    - [Fazer perguntas](https://github.com/jjeanjacques10/guia-programador-junior/issues)
 
 ## Assuntos Abordados no Desenvolvimento do Projeto:
 
@@ -51,16 +73,26 @@ npm start
 
 #    
 
-## Envolvidos no desenvolvimento
 
-<div align="left">
-  <div style="display: flex; align-items: flex-start;">
-    <p style="display: flex; align-items: flex-start;"><strong>Victor Brito:<strong></p>
-<a href="https://www.linkedin.com/in/victor-brito-dev/" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=Linkedin&logo=Linkedin&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcaiovrocha%2F"></a>
-    <a href="https://github.com/Victor-Brito" target="_blank"><img src="https://img.shields.io/github/followers/Victor-Brito?color=red&label=github&logo=github&logoColor=red&style=for-the-badge"></a>
-  </div>
-</div>
+## Contribuidores ✨
 
+Obrigado a essas pessoas maravilhosas:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/LucasOliveiraS"><img src="https://avatars.githubusercontent.com/u/13266295?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Oliveira</b></sub></a><br /><a href="https://github.com/jjeanjacques10/guia-programador-junior/commits?author=LucasOliveiraS" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/gabrielstork"><img src="https://avatars.githubusercontent.com/u/86558706?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabriel Stork</b></sub></a><br /><a href="https://github.com/jjeanjacques10/guia-programador-junior/commits?author=gabrielstork" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/diego-rapoport"><img src="https://avatars.githubusercontent.com/u/66575787?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Diego Rapoport</b></sub></a><br /><a href="https://github.com/jjeanjacques10/guia-programador-junior/commits?author=diego-rapoport" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
 #  
