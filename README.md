@@ -1,13 +1,15 @@
-**<h1 align="center">&nbsp;<img height="50" width="50" src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966">Guia ReactJS<img height="50" width="50" src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966">&nbsp;</h1>**
+**<h1 align="center">&nbsp;<img height="30" width="30" src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966"> Guia ReactJS <img height="30" width="30" src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966">&nbsp;</h1>**
 
 Este guia abrangente fornecerá todas as instruções necessárias para a instalação e configuração do ReactJS em sistemas Windows, Linux e macOS. Siga os passos abaixo para configurar o ambiente de desenvolvimento em seu sistema operacional preferido:
-#
 
 ## Sumário
 
-- Instalação:
+- Instalações:
     - [Nodejs](#-nodejs) <br>
-    - [Extensões VsCODE](#-nodejs) <br>
+        - [NodeJS Windows](#-nodejs-windows) <br>
+        - [Nodejs MacOS](#-nodejs) <br>
+        - [Nodejs Linux](#-nodejs) <br>
+    - [Extensões VsCode](#-nodejs) <br>
 - Configuração:
     - [Frontend](#-nodejs) <br>
     - [Backend](#-nodejs) <br>
@@ -25,11 +27,7 @@ Este guia abrangente fornecerá todas as instruções necessárias para a instal
 
 ---
 
-## Instalações Essenciais:
-
-### NodeJS 
-
-#
+## - Instalações Essenciais:
 
 ### NodeJS Windows:
 - Acesse o site oficial do **NODEJS** **https://nodejs.org/en/download**
@@ -38,6 +36,8 @@ Este guia abrangente fornecerá todas as instruções necessárias para a instal
 ```
 node -v
 ```
+#
+
 ### NodeJS MacOS:
 - Acesse o site oficial do **NODEJS** **https://nodejs.org/en/download**
 - Execute o instalador, siga as instruções na tela e pronto.
@@ -45,7 +45,7 @@ node -v
 ```
 node -v
 ```
-- Usando o Homebrew:
+----- **Usando o Homebrew** -----
 - Se você não tiver o Homebrew instalado, execute o seguinte comando no Terminal para instalá-lo:
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -59,7 +59,42 @@ brew install node
 ```
 node -v
 ```
+----- **Usando o NVM (Node Version Manager)** -----
+- Se você preferir usar o NVM para gerenciar as versões do Node.js, execute o seguinte comando no Terminal para instalar o NVM:
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+```
+- Após a instalação do NVM, feche e abra o Terminal novamente ou execute o seguinte comando para carregar o NVM:
+```
+source ~/.nvm/nvm.sh
+```
+- Agora, você pode instalar uma versão específica do Node.js usando o NVM. Por exemplo, para instalar a versão mais recente do Node.js, execute o seguinte comando:
+```
+nvm install node
+```
+- Aguarde até que a instalação seja concluída. O NVM instalará tanto o Node.js quanto o npm automaticamente.
+- Para verificar se a instalação foi bem-sucedida, execute o seguinte comando no Terminal:
+```
+node -v
+```
+#
 
+### NodeJS Linux (Ubuntu e Debian):
+- Acesse o site oficial do **NODEJS** **https://nodejs.org/en/download**
+- Execute o instalador, siga as instruções na tela e pronto.
+- Agora, o Node.js está instalado em seu computador Windows. Para verificar se a instalação foi bem-sucedida, abra o prompt de comando e execute o seguinte comando:
+```
+node -v
+```
+----- **Usando o terminal bash ou zsh** -----
+- Execute o primeiro comando
+```
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - &&\
+```
+- Execute o segundo comando
+```
+sudo apt-get install -y nodejs
+```
 
 ## Contribuidores ✨
 
