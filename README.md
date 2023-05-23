@@ -31,16 +31,8 @@
     - [Fazer perguntas](https://github.com/cvrocha/react-guide/issues)
 
 ---
-* [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Sobre](#Sobre)
-   * [Recursos](#recursos)
-   * [Pré-requisitos](#pré-requisitos)
-   * [Tecnologias](#tecnologias)
 
-<div id="Sobre">
-    <h4> Sobre o Site </h4>
-    <p>Este é um site feito para atender as necessidades de uma empresa de eventos.</p> 
-    <p>Projeto desenvolvido durante a NLW - Next Level Week</p>
+<div id="nodejs">
 </div>
 
 ## :hammer_and_wrench: Instalações Essenciais:
