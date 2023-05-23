@@ -14,8 +14,8 @@
         - [NodeJS Windows](#nodejs) <br>
         - [Nodejs MacOS](#nodejs-macos) <br>
         - [Nodejs Linux](#nodejs-linux) <br>
-    - [Extensões VsCode](#-nodejs) <br>
-- Configuração:
+    - [Extensões VsCode](#extensoes) <br>
+<!-- - Configuração:
     - [Frontend](#-nodejs) <br>
     - [Backend](#-nodejs) <br>
 - Modulos Interessantes:
@@ -26,7 +26,7 @@
     - [Onde ler artigos](#-nodejs) <br>
     - [Comunidades](#-nodejs) <br>
     - [Podcasts](#-nodejs) <br>
-    - [Livros](#-nodejs) <br>
+    - [Livros](#-nodejs) <br> -->
 - Tirar Dúvidas
     - [Fazer perguntas](https://github.com/cvrocha/react-guide/issues)
 
@@ -105,6 +105,41 @@ curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - &&\
 ```
 sudo apt-get install -y nodejs
 ```
+
+<div id="extensoes"></div>
+## 💡 Extensões:
+> As extensões no Visual Studio Code (VSCode) são recursos adicionais que permitem estender a funcionalidade do editor de código. 
+
+### ESLint:
+O ESLint é uma ferramenta de análise estática de código JavaScript que ajuda a identificar e corrigir erros e padrões de código inconsistentes. A extensão do ESLint para o VSCode integra-se perfeitamente ao editor, exibindo avisos e erros de linting em tempo real.
+
+#
+
+### Prettier:
+O Prettier é uma extensão que ajuda a formatar automaticamente o código JavaScript, incluindo código ReactJS, seguindo convenções de estilo pré-definidas. Ele pode ajudar a manter um estilo de código consistente em toda a equipe.
+
+#
+
+### Bracket Pair Colorizer:
+Essa extensão destaca os pares de colchetes, chaves e parênteses com cores diferentes, facilitando a visualização e a correspondência deles em código JSX complexo.
+
+#
+
+### EditorConfig:
+é usada para fornecer suporte à configuração consistente e compartilhada de estilos de código entre diferentes editores de texto e IDEs.
+
+#
+
+### vscode-styled-components:
+é projetada especificamente para fornecer suporte aprimorado ao desenvolvimento com a biblioteca Styled Components no Visual Studio Code.
+Styled Components é uma biblioteca popular para estilização de componentes em aplicações React. Ela permite escrever estilos CSS diretamente no código JavaScript ou TypeScript, oferecendo uma abordagem de estilização mais intuitiva e fácil de manter.
+
+#
+
+### Rocketseat ReactJS:
+Snippets: Ela fornece uma coleção de snippets (trechos de código) pré-configurados para facilitar a escrita de código ReactJS. Os snippets são atalhos que podem ser usados para gerar blocos de código comuns, como componentes, importações, hooks e estruturas básicas de código ReactJS.
+
+#
 
 ## Contribuidores ✨
 
