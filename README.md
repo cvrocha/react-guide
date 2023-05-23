@@ -10,10 +10,10 @@
 ## :open_book: Sumário
 
 - Instalações:
-    - [Nodejs](#-nodejs) <br>
-        - [NodeJS Windows](#-nodejs) <br>
-        - [Nodejs MacOS](#-nodejs-macos) <br>
-        - [Nodejs Linux](#-nodejs-linux) <br>
+    - [Nodejs](#nodejs) <br>
+        - [NodeJS Windows](#nodejs) <br>
+        - [Nodejs MacOS](#nodejs-macos) <br>
+        - [Nodejs Linux](#nodejs-linux) <br>
     - [Extensões VsCode](#-nodejs) <br>
 - Configuração:
     - [Frontend](#-nodejs) <br>
@@ -33,7 +33,7 @@
 ---
 
 ## :hammer_and_wrench: Instalações Essenciais:
-<div id="#-nodejs"></div>
+<div id="nodejs"></div>
 ### NodeJS Windows:
 - Acesse o site oficial do **NODEJS** **https://nodejs.org/en/download**
 - Execute o instalador, siga as instruções na tela e pronto.
@@ -42,7 +42,7 @@
 node -v
 ```
 #
-<div id="#-nodejs-macos"></div>
+<div id="nodejs-macos"></div>
 ### NodeJS MacOS:
 - Acesse o site oficial do **NODEJS** **https://nodejs.org/en/download**
 - Execute o instalador, siga as instruções na tela e pronto.
@@ -83,7 +83,7 @@ nvm install node
 node -v
 ```
 #
-<div id="#-nodejs-linux"></div>
+<div id="nodejs-linux"></div>
 ### NodeJS Linux (Ubuntu e Debian):
 - Acesse o site oficial do **NODEJS** **https://nodejs.org/en/download**
 - Execute o instalador, siga as instruções na tela e pronto.
