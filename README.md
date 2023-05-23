@@ -32,8 +32,7 @@
 
 ---
 
-<div id="nodejs">
-</div>
+<div id="nodejs"></div>
 
 ## :hammer_and_wrench: Instalações Essenciais:
 
@@ -45,7 +44,8 @@
 ```
 node -v
 ```
-#
+---
+<div id="nodejs-macos"></div>
 
 ### NodeJS MacOS:
 - Acesse o site oficial do **NODEJS** **https://nodejs.org/en/download**
@@ -86,7 +86,8 @@ nvm install node
 ```
 node -v
 ```
-#
+---
+<div id="nodejs-linux"></div>
 
 ### NodeJS Linux (Ubuntu e Debian):
 - Acesse o site oficial do **NODEJS** **https://nodejs.org/en/download**
