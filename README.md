@@ -106,27 +106,37 @@ curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - &&\
 sudo apt-get install -y nodejs
 ```
 
+
+---
 <div id="extensoes"></div>
+
 ## 💡 Extensões:
 > As extensões no Visual Studio Code (VSCode) são recursos adicionais que permitem estender a funcionalidade do editor de código. 
 
 ### ESLint:
 O ESLint é uma ferramenta de análise estática de código JavaScript que ajuda a identificar e corrigir erros e padrões de código inconsistentes. A extensão do ESLint para o VSCode integra-se perfeitamente ao editor, exibindo avisos e erros de linting em tempo real.
 
+<a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">Saiba Mais 🔗</a>
+
 #
 
 ### Prettier:
 O Prettier é uma extensão que ajuda a formatar automaticamente o código JavaScript, incluindo código ReactJS, seguindo convenções de estilo pré-definidas. Ele pode ajudar a manter um estilo de código consistente em toda a equipe.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Saiba Mais 🔗</a>
 
 #
 
 ### Bracket Pair Colorizer:
 Essa extensão destaca os pares de colchetes, chaves e parênteses com cores diferentes, facilitando a visualização e a correspondência deles em código JSX complexo.
 
+<a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2">Saiba Mais 🔗</a>
 #
 
 ### EditorConfig:
 é usada para fornecer suporte à configuração consistente e compartilhada de estilos de código entre diferentes editores de texto e IDEs.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig">Saiba Mais 🔗</a>
 
 #
 
@@ -134,10 +144,56 @@ Essa extensão destaca os pares de colchetes, chaves e parênteses com cores dif
 é projetada especificamente para fornecer suporte aprimorado ao desenvolvimento com a biblioteca Styled Components no Visual Studio Code.
 Styled Components é uma biblioteca popular para estilização de componentes em aplicações React. Ela permite escrever estilos CSS diretamente no código JavaScript ou TypeScript, oferecendo uma abordagem de estilização mais intuitiva e fácil de manter.
 
+<a href="https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components">Saiba Mais 🔗</a>
+
 #
 
 ### Rocketseat ReactJS:
 Snippets: Ela fornece uma coleção de snippets (trechos de código) pré-configurados para facilitar a escrita de código ReactJS. Os snippets são atalhos que podem ser usados para gerar blocos de código comuns, como componentes, importações, hooks e estruturas básicas de código ReactJS.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactJS">Saiba Mais 🔗</a>
+
+#
+
+### Auto Rename Tag:
+tem como objetivo facilitar a edição e a manutenção de código HTML/XML no Visual Studio Code. Essa extensão oferece o recurso de renomeação automática de tags. Quando você renomeia uma tag de abertura ou fechamento de um elemento HTML/XML, a extensão atualiza automaticamente a tag correspondente, mantendo a consistência do código.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Saiba Mais 🔗</a>
+
+#
+
+### Color Highlight:
+tem como finalidade auxiliar no desenvolvimento de estilos CSS, SCSS, Less e Stylus, fornecendo um destaque visual para cores presentes no código. Quando você utiliza valores de cores em formato hexadecimal (por exemplo, #FF0000 para vermelho) ou em outros formatos (como rgb(255, 0, 0)), a extensão "ColorHighlight" identifica essas cores e destaca visualmente o texto correspondente com a cor definida.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight">Saiba Mais 🔗</a>
+
+#
+
+### Prisma:
+é projetada para fornecer suporte ao desenvolvimento de bancos de dados com a biblioteca Prisma no Visual Studio Code. O Prisma é um ORM (Object-Relational Mapping) moderno e avançado que simplifica o acesso e a manipulação de bancos de dados em aplicativos. Ele oferece uma camada de abstração para interagir com o banco de dados, permitindo que você escreva consultas e operações de banco de dados usando uma linguagem de programação amigável, como JavaScript ou TypeScript.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=Prisma.prisma">Saiba Mais 🔗</a>
+
+#
+
+### Tailwind CSS IntelliSense:
+é projetada para fornecer suporte ao desenvolvimento com o framework CSS chamado Tailwind CSS no Visual Studio Code. O Tailwind CSS é um framework CSS altamente configurável e de baixo nível, que permite a criação rápida e flexível de interfaces de usuário. Ele fornece uma ampla gama de utilitários de classe CSS que podem ser combinados para criar estilos personalizados.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss">Saiba Mais 🔗</a>
+
+#
+
+### PostCSS Language Support:
+fornece suporte aprimorado ao desenvolvimento com a linguagem PostCSS no Visual Studio Code. O PostCSS é uma ferramenta de processamento de CSS que permite estender e transformar as funcionalidades do CSS tradicional através do uso de plugins. Ele permite que você utilize recursos avançados, como variáveis, mixins, aninhamento e até mesmo pré-processadores CSS populares, como o Sass, no seu fluxo de trabalho de desenvolvimento.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=csstools.postcss">Saiba Mais 🔗</a>
+
+#
+
+### Npm Intellisense:
+ tem como objetivo fornecer suporte ao desenvolvimento com o gerenciador de pacotes npm no Visual Studio Code. O npm (Node Package Manager) é um gerenciador de pacotes amplamente utilizado no ecossistema do Node.js. Ele permite que você instale, gerencie e utilize pacotes e dependências em seus projetos.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense">Saiba Mais 🔗</a>
 
 #
 
