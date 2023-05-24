@@ -7,6 +7,8 @@
 
 > Este guia abrangente fornecerá todas as instruções necessárias para a instalação e configuração do ReactJS em sistemas Windows, Linux e MacOS. Siga os passos abaixo para configurar o ambiente de desenvolvimento em seu sistema operacional preferido.
 
+<br>
+
 ## :open_book: Sumário
 
 - Instalações:
@@ -31,7 +33,7 @@
     - [Fazer perguntas](https://github.com/cvrocha/react-guide/issues)
 
 ---
-
+<br>
 <div id="nodejs"></div>
 
 ## :hammer_and_wrench: Instalações Essenciais:
@@ -108,6 +110,7 @@ sudo apt-get install -y nodejs
 
 
 ---
+<br>
 <div id="extensoes"></div>
 
 ## 💡 Extensões:
@@ -195,7 +198,9 @@ fornece suporte aprimorado ao desenvolvimento com a linguagem PostCSS no Visual 
 
 <a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense">Saiba Mais 🔗</a>
 
-#
+---
+
+<br>
 
 ## Contribuidores ✨
 
