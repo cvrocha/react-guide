@@ -17,9 +17,9 @@
         - [Nodejs MacOS](#nodejs-macos) <br>
         - [Nodejs Linux](#nodejs-linux) <br>
     - [Extensões VsCode](#extensoes) <br>
-<!-- - Configuração:
-    - [Frontend](#-nodejs) <br>
-    - [Backend](#-nodejs) <br>
+- Configuração:
+    - [Frontend](#frontend) <br>
+<!--     - [Backend](#-nodejs) <br>
 - Modulos Interessantes:
     - [Gratuitos](#-nodejs) <br>
     - [Pagos](#-nodejs) <br>
@@ -198,6 +198,17 @@ fornece suporte aprimorado ao desenvolvimento com a linguagem PostCSS no Visual 
 
 <a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense">Saiba Mais 🔗</a>
 
+---
+<br>
+<div id="frontend"></div>
+
+## 💻 Configurando inicial do Front-End:
+> Primeiro, você precisará do NPM (ou do Yarn, como opção). 
+- Você deve ter, pelo menos, a versão 5.2.0 do NPM ou superior, pois o create-react-app precisa do NPX instalado.
+```
+npm install -g npm
+```
+o ReactJS pode ser instalado de várias maneiras. Você pode utilizá-lo com o Vite, o NestJS ou até mesmo de forma pura, sem dependências adicionais.
 ---
 
 <br>
