@@ -202,13 +202,51 @@ fornece suporte aprimorado ao desenvolvimento com a linguagem PostCSS no Visual 
 <br>
 <div id="frontend"></div>
 
-## 💻 Configurando inicial do Front-End:
+## 💻 Configuração inicial do Front-End:
 > Primeiro, você precisará do NPM (ou do Yarn, como opção). 
 - Você deve ter, pelo menos, a versão 5.2.0 do NPM ou superior, pois o create-react-app precisa do NPX instalado.
 ```
 npm install -g npm
 ```
-o ReactJS pode ser instalado de várias maneiras. Você pode utilizá-lo com o Vite, o NestJS ou até mesmo de forma pura, sem dependências adicionais.
+- o ReactJS pode ser instalado de várias maneiras. Você pode utilizá-lo com o Vite, o NextJS ou até mesmo de forma pura, sem dependências adicionais.
+
+--- Instalação limpa ---
+```
+npm install -g create-react-app
+```
+```
+create-react-app meu-app-react
+```
+```
+cd meu-app-react
+```
+```
+npm run start
+```
+--- Instalação NextJS by Vercel ---
+> Usado por algumas das maiores empresas do mundo, o Next.js permite que você crie aplicativos da Web de pilha completa , estendendo os recursos mais recentes do React e integrando poderosas ferramentas JavaScript baseadas em Rust para compilações mais rápidas. Com o Next, já vem instalado o tailwind css, eslint e postcss.
+```
+npx create-next-app@latest
+```
+- Após isso, coloque sim em tudo e coloque o nome do projeto e rode os seguintes comandos.
+```
+cd nome-do-projeto
+```
+```
+npm run start
+```
+--- Instalação Vite ---
+> O Vite é uma ferramenta de construção de projetos extremamente rápida para o desenvolvimento de aplicativos React (e também Vue.js). Ele foi projetado para otimizar o processo de desenvolvimento, fornecendo um ambiente de desenvolvimento altamente ágil e eficiente. Com o Vite, já vem instalado o  eslint.
+```
+npx create-next-app@latest
+```
+- Após isso, selecione a opção react e coloque o nome do projeto e rode os seguintes comandos.
+```
+cd nome-do-projeto
+```
+```
+npm run start
+```
 ---
 
 <br>
