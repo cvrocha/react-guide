@@ -211,7 +211,7 @@ npm install -g npm
 - o ReactJS pode ser instalado de várias maneiras. Você pode utilizá-lo com o Vite, o NextJS ou até mesmo de forma pura, sem dependências adicionais.
 
 
---- <img src="https://media.istockphoto.com/id/1138152835/pt/vetorial/easy-clean-surface.jpg?s=612x612&w=0&k=20&c=gby3kiFB6XjeVf6KQp5G0AyeqAtt3-qoOIU7z8cfpGg=" width="20px;" alt=""/> Instalação limpa ---
+### <img src="https://www.pngkey.com/png/full/45-452251_glad-cleaning-cleaning-icon-white-png.png" width="20px;" alt=""/> Instalação limpa 
 ```
 npm install -g create-react-app
 ```
@@ -224,7 +224,11 @@ cd meu-app-react
 ```
 npm run start
 ```
---- <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="20px;" alt=""/> Instalação NextJS by Vercel ---
+<a href="https://react.dev/learn/start-a-new-react-project">Documentação 🔗</a>
+
+---
+
+### <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" width="20px;" alt=""/> Instalação NextJS by Vercel
 > Usado por algumas das maiores empresas do mundo, o Next.js permite que você crie aplicativos da Web de pilha completa , estendendo os recursos mais recentes do React e integrando poderosas ferramentas JavaScript baseadas em Rust para compilações mais rápidas. Com o Next, já vem instalado o tailwind css, eslint e postcss.
 ```
 npx create-next-app@latest
@@ -236,7 +240,11 @@ cd nome-do-projeto
 ```
 npm run start
 ```
---- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" width="20px;" alt=""/>  Instalação Vite ---
+<a href="https://nextjs.org/docs">Documentação 🔗</a>
+
+---
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" width="20px;" alt=""/>  Instalação Vite
 > O Vite é uma ferramenta de construção de projetos extremamente rápida para o desenvolvimento de aplicativos React (e também Vue.js). Ele foi projetado para otimizar o processo de desenvolvimento, fornecendo um ambiente de desenvolvimento altamente ágil e eficiente. Com o Vite, já vem instalado o  eslint.
 ```
 npx create-next-app@latest
@@ -248,8 +256,10 @@ cd nome-do-projeto
 ```
 npm run start
 ```
----
 
+<a href="https://vitejs.dev/guide/">Documentação 🔗</a>
+
+---
 <br>
 
 ## Contribuidores ✨
