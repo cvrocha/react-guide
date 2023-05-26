@@ -247,7 +247,7 @@ npm run start
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" width="20px;" alt=""/>  Instalação Vite
 > O Vite é uma ferramenta de construção de projetos extremamente rápida para o desenvolvimento de aplicativos React (e também Vue.js). Ele foi projetado para otimizar o processo de desenvolvimento, fornecendo um ambiente de desenvolvimento altamente ágil e eficiente. Com o Vite, já vem instalado o  eslint.
 ```
-npx create-next-app@latest
+npm create vite@latest
 ```
 - Após isso, selecione a opção react e coloque o nome do projeto e rode os seguintes comandos.
 ```
